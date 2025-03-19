@@ -37,4 +37,4 @@ My name is George. C++ Game Developer
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Melpomenna&theme=2077)
 
 [![codewars](https://www.codewars.com/users/Soulfon/badges/large)](https://www.codewars.com/users/Soulfon)
-[![jetsai's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=melpomenna&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+![LeetCode Stats](https://leetcard.jacoblin.cool/melpomenna?theme=unicorn&font=Mina&ext=heatmap)
