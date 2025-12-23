@@ -38,4 +38,4 @@ My name is George. C++ Game Developer
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/melpomenna?theme=unicorn&font=Mina&ext=heatmap)
 
-![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=gellow&theme=1)
+![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=gellow&theme=2)
